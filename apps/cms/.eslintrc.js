@@ -1,4 +1,4 @@
 module.exports = {
   root: true,
-  extends: ['@repo/config/eslint-preset'],
+  extends: ['next/core-web-vitals', 'prettier'],
 }
